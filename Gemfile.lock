@@ -522,7 +522,7 @@ GEM
     rubocop-rspec (3.6.0)
       lint_roller (~> 1.1)
       rubocop (~> 1.72, >= 1.72.1)
-    ruby-lsp (0.23.23)
+    ruby-lsp (0.23.24)
       language_server-protocol (~> 3.17.0)
       prism (>= 1.2, < 2.0)
       rbs (>= 3, < 5)
@@ -610,7 +610,7 @@ GEM
     solargraph-rails (1.1.2)
       activesupport
       solargraph (>= 0.48.0, < 0.53.0)
-    sorbet-runtime (0.5.12135)
+    sorbet-runtime (0.5.12149)
     spree (5.1.0.beta3)
       spree_api (= 5.1.0.beta3)
       spree_cli (= 5.1.0.beta3)
