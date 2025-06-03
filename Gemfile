@@ -122,3 +122,5 @@ gem "spree_i18n"
 gem 'sentry-ruby'
 gem 'sentry-rails'
 gem 'sentry-sidekiq'
+gem 'httparty'
+
